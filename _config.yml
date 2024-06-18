@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "zyb.jpg"
   name             : "Yubo Zhou"
-  pronouns         : # example: "she/her"  
+  pronouns         : # example: "she/her"
   bio              : "A photographer & a postgraduate students of UESTC"
   location         : "Chengdu, Sichuan, China"
   employer         : "UESTC"
@@ -55,7 +55,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "sherlock_zyb"
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
