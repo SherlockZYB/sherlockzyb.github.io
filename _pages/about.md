@@ -7,10 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher focused on medical image analysis, particularly in data-efficient learning for medical image computing, such as semi-supervised learning, weakly-supervised learning and human-in-the-loop, and extending them for practical clinical applications.
-I received my Bachelor’s Degree in the School of Mechanical and Electrical Engineering at University of Electronic Science and Technology of China on July 1, 2018. I will received the PhD Degree from the School of Mechanical and Electrical Engineering, University of Electronic Science and Technology of China, co-advised by Prof. Guotai Wang and Prof. Shaoting Zhang.
+I am a PhD student at University of Electronic Science and Technology of China from 2025/09, under the supervision of [Guotai Wang](https://scholar.google.com/citations?hl=zh-CN&user=Z2sFN4EAAAAJ). Major in medical image analysis. I received Bachelor’s Degree at Sichuan University in 2023. Major in Computer Science and Technology.
 
-A data-driven personal website
+Publications
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
