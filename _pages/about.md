@@ -11,6 +11,39 @@ I am a PhD student at University of Electronic Science and Technology of China f
 
 Publications
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+- **TEGDA: Test-Time Evaluation-Guided Dynamic Adaptation for Medical Image Segmentation**
+  
+  **Yubo Zhou**, Jianghao Wu, Wenjun Liao, Shichuan Zhang, Shaoting Zhang, Guotai Wang
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+  **MICCAI 2025**
+
+- **Vox-MMSD: Voxel-wise Multi-scale and Multi-modal Self-Distillation for Self-supervised Brain Tumor Segmentation**
+  
+  **Yubo Zhou**, Jianghao Wu, Jia Fu, Qiang Yue, Wenjun Liao, Shichuan Zhang, Shaoting Zhang, Guotai Wang
+
+  **IEEE Journal of Biomedical and Health Informatics (2025, IF=6.8)**
+
+- **Self-supervised pre-training based on contrastive complementary masking for semi-supervised cardiac image segmentation**
+  
+  **Yubo Zhou**, Ran Gu, Shaoting Zhang, Guotai Wang
+
+  **ISBI 2024**
+
+
+- **Brain tumor segmentation based on self-supervised pre-training and adaptive region-specific loss**
+  
+  **Yubo Zhou**, Lanfeng Zhong, Guotai Wang
+
+  **BraTS Challenge 2023**
+
+- **Volume Fusion-Based Self-Supervised Pre-training for 3D Medical Image Segmentation**
+  
+  Guotai Wang, Jia Fu, Jianghao Wu, Xiangde Luo, **Yubo Zhou**, Xinglong Liu, Kang Li, Jingsheng Lin, Baiyong Shen, Shaoting Zhang
+
+  **IEEE Transactions on Image Processing (2025, IF=13.7)**
+
+- **A3-TTA: Adaptive Anchor Alignment Test-Time Adaptation for Image Segmentation**
+  
+  Jianghao Wu, Xiangde Luo, **Yubo Zhou**, Lianming Wu, Guotai Wang, Shaoting Zhang
+
+  **IEEE Transactions on Image Processing (2025, IF=13.7)**
