@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "About me"
+title: "Yubo Zhou"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+About me
+======
 I am a PhD student at University of Electronic Science and Technology of China from 2025/09, under the supervision of [Guotai Wang](https://scholar.google.com/citations?hl=zh-CN&user=Z2sFN4EAAAAJ). Major in medical image analysis. I received Bachelor’s Degree at Sichuan University in 2023. Major in Computer Science and Technology.
 
 Publications
@@ -35,3 +37,20 @@ Publications
 - **A3-TTA: Adaptive Anchor Alignment Test-Time Adaptation for Image Segmentation**<br>
   Jianghao Wu, Xiangde Luo, **Yubo Zhou**, Lianming Wu, Guotai Wang, Shaoting Zhang<br>
   **IEEE Transactions on Image Processing (2025, IF=13.7)**
+
+Rewards
+======
+- **UESTC First-Class Outstanding Student Scholarship**<br>
+  UESTC, 2024
+
+- **Sichuan Province Comprehensive Quality Level A Certification**<br>
+  Sichuan Provincial Committee of the Communist Youth League of China, 2023
+
+- **Sichuan University Outstanding graduates**<br>
+  SCU, 2023
+
+- **Sichuan University First-Class Outstanding Student Scholarship**<br>
+  SCU, 2023
+
+- **Chinese Collegiate Computing Competition, First Award**<br>
+  Chinese Collegiate Computing Competition Organizing Committee, 2022
