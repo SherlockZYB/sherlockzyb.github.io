@@ -4,30 +4,58 @@ title: "Gallery"
 permalink: /gallery/
 author_profile: false
 photo_wall:
-  - image_path: /images/foo-bar-identity.jpg
-    alt: "Street scene"
-    title: "City Walk"
-    description: "A quiet corner after rain, reflecting the neon glow."
-  - image_path: /images/foo-bar-identity-th.jpg
-    alt: "Architecture detail"
-    title: "Lines and Light"
-    description: "Hard edges softened by late afternoon sunlight."
-  - image_path: /images/3953273590_704e3899d5_m.jpg
-    alt: "Landscape"
-    title: "Distant Hills"
-    description: "Layered silhouettes fading into a soft haze."
-  - image_path: /images/image-alignment-580x300.jpg
-    alt: "Waterfront"
-    title: "River Bend"
-    description: "Still water and long exposure trails at dusk."
-  - image_path: /images/image-alignment-1200x4002.jpg
-    alt: "Portrait"
-    title: "Quiet Portrait"
-    description: "A brief pause captured in natural window light."
-  - image_path: /images/image-alignment-300x200.jpg
-    alt: "Night city"
-    title: "After Hours"
-    description: "The city breathes differently under street lamps."
+  - image_path: /gallery/galaxy.jpg
+    # alt: "Street scene"
+    title: "Galaxy"
+    # description: "A quiet corner after rain, reflecting the neon glow."
+  - image_path: /gallery/gongga.jpg
+    # alt: "Street scene"
+    title: "Minya Konka"
+    # description: "A quiet corner after rain, reflecting the neon glow."
+  - image_path: /gallery/greece.jpg
+    # alt: "Street scene"
+    title: "Acropolis"
+    # description: "A quiet corner after rain, reflecting the neon glow."
+  - image_path: /gallery/japan.jpg
+    # alt: "Street scene"
+    title: "Toin University of Yokohama"
+    # description: "A quiet corner after rain, reflecting the neon glow."
+  - image_path: /gallery/jiuzhai.jpg
+    # alt: "Street scene"
+    title: "Jiuzhaigou"
+    # description: "A quiet corner after rain, reflecting the neon glow."
+  - image_path: /gallery/kelingking-beach.jpg
+    # alt: "Street scene"
+    title: "kelingking Beach"
+    # description: "A quiet corner after rain, reflecting the neon glow."
+  - image_path: /gallery/korea.jpg
+    # alt: "Street scene"
+    title: "Yuseong"
+    # description: "A quiet corner after rain, reflecting the neon glow."
+  - image_path: /gallery/lizhuang.jpg
+    # alt: "Street scene"
+    title: "Lizhuang Ancient Town"
+    # description: "A quiet corner after rain, reflecting the neon glow."
+  - image_path: /gallery/nianbaoyuze.jpg
+    # alt: "Street scene"
+    title: "Lianbao Yeze"
+    # description: "A quiet corner after rain, reflecting the neon glow."
+  - image_path: /gallery/snow-house.jpg
+    # alt: "Street scene"
+    title: "Cabin in the Snow"
+    # description: "A quiet corner after rain, reflecting the neon glow."
+  - image_path: /gallery/sun-set.jpg
+    # alt: "Street scene"
+    title: "Sunset on the Train"
+    # description: "A quiet corner after rain, reflecting the neon glow."
+  - image_path: /gallery/suoyiling.jpg
+    # alt: "Street scene"
+    title: "Suoyi Ridge"
+    # description: "A quiet corner after rain, reflecting the neon glow."
+  - image_path: /gallery/wudu.jpg
+    # alt: "Street scene"
+    title: "Chongqing, the Fog City"
+    # description: "A quiet corner after rain, reflecting the neon glow."
 ---
 
 {% include photo-wall.html %}
