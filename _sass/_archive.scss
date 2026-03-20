@@ -261,7 +261,7 @@
   }
 
   @include breakpoint($large) {
-    column-count: 3;
+    column-count: 2;
   }
 }
 

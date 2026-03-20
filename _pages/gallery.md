@@ -44,7 +44,7 @@ photo_wall:
     alt: "Street scene"
     title: "Cabin in the Snow"
     description: ""
-  - image_path: /gallery/sun-set.jpg
+  - image_path: /gallery/sunset.jpg
     alt: "Street scene"
     title: "Sunset on the Train"
     description: ""
