@@ -243,3 +243,72 @@
     }
   }
 }
+
+/*
+   Photo wall
+   ========================================================================== */
+
+.photo-wall {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+
+  @include breakpoint($small) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  @include breakpoint($medium) {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  @include breakpoint($large) {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+.photo-wall__item {
+  position: relative;
+  margin: 0;
+  overflow: hidden;
+  border-radius: $border-radius;
+  background: #000;
+  outline: none;
+
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+}
+
+.photo-wall__caption {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  gap: 0.35rem;
+  padding: 0.85rem;
+  color: #fff;
+  background: rgba(0, 0, 0, 0.55);
+  opacity: 0;
+  transition: opacity 0.2s ease-in-out;
+}
+
+.photo-wall__title {
+  font-family: $sans-serif-narrow;
+  font-size: $type-size-6;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.photo-wall__desc {
+  font-size: $type-size-6;
+  line-height: 1.4;
+}
+
+.photo-wall__item:hover .photo-wall__caption,
+.photo-wall__item:focus-within .photo-wall__caption,
+.photo-wall__item:focus .photo-wall__caption {
+  opacity: 1;
+}

@@ -1,0 +1,47 @@
+{% include base_path %}
+
+{% if include.id %}
+  {% assign items = page.[include.id] %}
+{% else %}
+  {% assign items = page.photo_wall %}
+{% endif %}
+
+<div class="photo-wall">
+  {% for item in items %}
+    <figure class="photo-wall__item" {% unless item.url %}tabindex="0"{% endunless %}>
+      {% if item.url %}
+        <a href=
+          {% if item.url contains "://" %}
+            "{{ item.url }}"
+          {% elsif item.url contains "/" %}
+            "{{ item.url | prepend: base_path }}"
+          {% else %}
+            "{{ item.url | prepend: "/" | prepend: base_path }}"
+          {% endif %}
+        >
+      {% endif %}
+      <img src=
+        {% if item.image_path contains "://" %}
+          "{{ item.image_path }}"
+        {% elsif item.image_path contains "/" %}
+          "{{ item.image_path | prepend: base_path }}"
+        {% else %}
+          "{{ item.image_path | prepend: "/images/" | prepend: base_path }}"
+        {% endif %}
+        alt="{% if item.alt %}{{ item.alt }}{% endif %}">
+      {% if item.url %}
+        </a>
+      {% endif %}
+      {% if item.title or item.description %}
+        <figcaption class="photo-wall__caption">
+          {% if item.title %}
+            <span class="photo-wall__title">{{ item.title }}</span>
+          {% endif %}
+          {% if item.description %}
+            <span class="photo-wall__desc">{{ item.description }}</span>
+          {% endif %}
+        </figcaption>
+      {% endif %}
+    </figure>
+  {% endfor %}
+</div>

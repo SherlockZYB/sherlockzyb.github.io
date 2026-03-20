@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Baker Street 221B"
 title_separator          : "-"
 name                     : &name "Yubo Zhou"
-description              : &description "A photographer & a Phd student of UESTC"
+description              : &description "A photographer & a Phd student"
 url                      : https://sherlockzyb.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "SherlockZYB/sherlockzyb.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "zyb.jpg"
   name             : "Yubo Zhou"
   pronouns         : # example: "she/her"
-  bio              : "A photographer & a Phd student of UESTC"
+  bio              : "A photographer & a Phd student"
   location         : "Chengdu, Sichuan, China"
   employer         : "UESTC"
   uri              : # URL
@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=V1c5c1QAAAAJ"
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
