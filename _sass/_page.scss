@@ -107,6 +107,16 @@
   }
 }
 
+h1:before,
+.anchor:before {
+  content: "";
+  display: block;
+  position: relative;
+  width: 0;
+  height: 2em;
+  margin-top: -2em;
+}
+
 .page__hero {
   position: relative;
   margin-bottom: 2em;
