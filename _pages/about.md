@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yubo Zhou"
+# title: "Yubo Zhou"
 author_profile: true
 redirect_from:
   - /about/
