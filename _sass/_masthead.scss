@@ -19,8 +19,9 @@
   &__inner-wrap {
     @include container;
     @include clearfix;
-    padding: 1em 1em 1em;
+    padding: 0.5em;
     font-family: $sans-serif-narrow;
+    font-size: 0.9375em;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -52,7 +53,15 @@
   white-space: nowrap;
 
   &--lg {
-    padding-right: 3em;
+    padding-right: 2em;
     font-weight: 700;
+  }
+}
+
+.masthead__menu-home-item {
+  display: none !important;
+
+  @include breakpoint($medium) {
+    display: block !important;
   }
 }
