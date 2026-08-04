@@ -11,7 +11,13 @@ redirect_from:
 
 # 🙋‍♂️ About Me
 
-I am a PhD student at University of Electronic Science and Technology of China from 2025/09, under the supervision of [Guotai Wang](https://scholar.google.com/citations?hl=zh-CN&user=Z2sFN4EAAAAJ). Major in medical image analysis. I received Bachelor's Degree at Sichuan University in 2023. Major in Computer Science and Technology.
+I am a Ph.D. student at the **University of Electronic Science and Technology of China (UESTC)**, under the supervision of Prof. [Guotai Wang](https://scholar.google.com/citations?hl=zh-CN&user=Z2sFN4EAAAAJ). I began my graduate studies at **UESTC** in 2023 and transferred to the Ph.D. program in 2025. Prior to that, I received my bachelor's degree in Computer Science and Technology from **Sichuan University** in 2023.
+
+My research lies at the intersection of artificial intelligence and medical imaging. I am interested in developing reliable, generalizable, and data-efficient deep learning methods for medical image analysis.
+
+I am currently a Research Intern at **SenseCare Research** in Shanghai, supervised by Prof. [Shaoting Zhang](https://scholar.google.com/citations?hl=zh-CN&user=oiBMWK4AAAAJ). 
+
+😉 I am always open to discussions and potential collaborations in medical image analysis and AI for healthcare. Please feel free to contact me via email: [zhou-yubo@qq.com](mailto:zhou-yubo@qq.com).
 
 <span class="anchor" id="publications"></span>
 
@@ -46,24 +52,18 @@ I am a PhD student at University of Electronic Science and Technology of China f
 # 🎓 Education
 
 - *2025/09 - now*, PhD, School of Mechanical and Electrical Engineering, University of Electronic Science and Technology of China, Chengdu, China. Supervised by Prof. Guotai Wang.
-- *2023/09 - 2025/06*, Master, School of Mechanical and Electrical Engineering, University of Electronic Science and Technology of China, Chengdu, China. GPA: 3.78/4.00, rank: 15/224. Supervised by Prof. Guotai Wang.
+- *2023/09 - 2025/06*, Graduate Study (transferred to the Ph.D. program), School of Mechanical and Electrical Engineering, University of Electronic Science and Technology of China, Chengdu, China. GPA: 3.78/4.00, rank: 15/224. Supervised by Prof. Guotai Wang.
 - *2019/09 - 2023/06*, Bachelor, Computer Science and Technology, Sichuan University, Chengdu, China. GPA: 3.93/4.00, rank: 3/297. Recommendation for admission.
 
 <span class="anchor" id="awards"></span>
 
 # 🏅 Awards
 
-- **UESTC First-Class Outstanding Student Scholarship**<br>
-  UESTC, 2024
-
-- **Sichuan Province Comprehensive Quality Level A Certification**<br>
-  Sichuan Provincial Committee of the Communist Youth League of China, 2023
-
-- **Sichuan University Outstanding graduates**<br>
-  SCU, 2023
-
-- **Sichuan University First-Class Outstanding Student Scholarship**<br>
-  SCU, 2023
-
-- **Chinese Collegiate Computing Competition, First Award**<br>
-  Chinese Collegiate Computing Competition Organizing Committee, 2022
+- UESTC First-Class Outstanding Student Scholarship, 2024-2025.
+- Multi-rater Medical Image Segmentation (MMIS) Challenge, 1st Place, 2024.
+- ISICDM - Glioma Segmentation Challenge, 2nd Place, 2023.
+- ASNR-MICCAI BraTS Pediatrics Tumor Challenge (BraTS-PED), 3rd Place, 2023.
+- Sichuan Province Comprehensive Quality Level A Certification, 2023.
+- Sichuan University Outstanding Graduates, 2023.
+- Sichuan University First-Class Outstanding Student Scholarship, 2023.
+- Chinese Collegiate Computing Competition, First Award, 2022.

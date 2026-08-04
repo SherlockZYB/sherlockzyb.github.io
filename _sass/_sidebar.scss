@@ -14,10 +14,10 @@
   margin-bottom: 1em;
 
   @media screen and (min-width: $sidebar-screen-min-width) {
-    height: calc(100vh - 3.5em);
+    height: calc(100vh - 3.2em);
     overflow-y: auto;               // Add scrollbar if the sidebar is too long
     position: fixed;
-    padding-top: 3.5em;
+    padding-top: 3.2em;
   }
 
   @include breakpoint($large) {
@@ -47,7 +47,7 @@
 
   p, li {
     font-family: $sans-serif;
-    font-size: $type-size-6;
+    font-size: 0.86em;
     line-height: 1.5;
   }
 
@@ -90,7 +90,7 @@
   }
 
   img {
-    max-width: 175px;
+    max-width: 190px;
     border-radius: 50%;
 
     @include breakpoint($large) {
@@ -125,7 +125,11 @@
 }
 .sidebar .author__name {
   font-family: $sans-serif;
-  font-size: $type-size-5;
+  font-size: 1.12em;
+}
+
+.sidebar .author__bio {
+  font-size: 0.92em;
 }
 
 .sidebar .author__desktop {
@@ -250,7 +254,7 @@
     padding-top: 2px;
     padding-bottom: 2px;
     color: inherit;
-    font-size: $type-size-5;
+    font-size: 0.98em;
     text-decoration: none;
 
     &:hover {
