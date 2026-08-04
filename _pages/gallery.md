@@ -50,4 +50,6 @@ photo_wall:
     description: ""
 ---
 
+Selected landscape photographs from my travels and everyday wanderings.
+
 {% include photo-wall.html %}
